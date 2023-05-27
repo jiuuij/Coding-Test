@@ -3,6 +3,6 @@
 
 ------
 ### 🆙Lv.0🆙
-| Date | Programmers |Git-hub repo|
+| Date | Programmers | Repo |
 |:----------|:----------:|:----------:|
 |2023-05-28|[몫 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120805)|[Click!](https://github.com/jiuuij/Coding-Test/tree/main/Lv.0/%EB%AA%AB%20%EA%B5%AC%ED%95%98%EA%B8%B0)|
