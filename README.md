@@ -5,4 +5,4 @@
 ### 🆙Lv.0🆙
 | 제목 | 날짜 |
 |:----------|:----------:|
-|[n보다 커질 때까지 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120805/solution_groups?language=javascript&type=my)|2023-05-28|
+|[n보다 커질 때까지 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120805)|2023-05-28|
