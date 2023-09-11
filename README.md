@@ -29,6 +29,10 @@
 | 2023-06-06 |      [암호해독](https://school.programmers.co.kr/learn/courses/30/lessons/120892)       |                            [Click!](https://github.com/jiuuij/Coding-Test/blob/main/Lv.0/%EC%95%94%ED%98%B8%ED%95%B4%EB%8F%85.js)                            |
 | 2023-06-07 |    [배열의 평균값](https://school.programmers.co.kr/learn/courses/30/lessons/120817)    |                 [Click!](https://github.com/jiuuij/Coding-Test/blob/main/Lv.0/%EB%B0%B0%EC%97%B4%EC%9D%98%20%ED%8F%89%EA%B7%A0%EA%B0%92.js)                  |
 | 2023-06-07 | [특정 문자 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/120826)  |       [Click!](https://github.com/jiuuij/Coding-Test/blob/main/Lv.0/%ED%8A%B9%EC%A0%95%20%EB%AC%B8%EC%9E%90%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.js)       |
+
+### 🆙Lv.1🆙
+| Date       |                                       Programmers                                       |                                                                             Repo                                                                             |
+| :--------- | :-------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 2023-09-11 | [평균구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944)  |       [Click!](https://github.com/jiuuij/Coding-Test/blob/main/Lv.1/%ED%8F%89%EA%B7%A0%EA%B5%AC%ED%95%98%EA%B8%B0.js)       |
 | 2023-09-11 | [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937)  |       [Click!](https://github.com/jiuuij/Coding-Test/blob/main/Lv.1/%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98.js)       |
 | 2023-09-11 | [핸드폰 번호 가리](https://school.programmers.co.kr/learn/courses/30/lessons/12948)  |       [Click!](https://github.com/jiuuij/Coding-Test/blob/main/Lv.1/%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0.js)       |
